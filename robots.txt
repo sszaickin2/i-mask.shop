@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://i-mask.shop
+Sitemap: https://i-mask.shop/sitemap.xml
